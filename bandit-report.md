@@ -52,6 +52,13 @@ cat /var/lib/dpkg/info/bandit7.password
 # Bandit Level 7
 **Comandos utilizados:**
 ```bash
+ls
 grep millionth data.txt
 #si
+
+# Bandit Level 8
+**Comandos utilizados:**
+```bash
+ls
+sort data.txt | uniq -u
 
