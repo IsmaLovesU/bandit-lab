@@ -62,3 +62,9 @@ grep millionth data.txt
 ls
 sort data.txt | uniq -u
 
+# Bandit Level 9
+**Comandos utilizados:**
+```bash
+ls
+strings data.txt | grep "==="
+
