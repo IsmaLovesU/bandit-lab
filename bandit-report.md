@@ -27,6 +27,13 @@ cd inhere
 ls -a
 cat ...Hiding-From-You
 
+# Bandit Level 4
+**Comandos utilizados:**
+```bash
+cd inhere
+ls 
+file ./-file*
+cat ./-file07
 
 
 
