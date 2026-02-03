@@ -7,3 +7,11 @@ Encontrar la contraseña del siguiente nivel.
 ```bash
 ls
 cat readme
+
+# Bandit Level 1
+**Comandos utilizados:**
+```bash
+ls
+cat ./-
+
+
