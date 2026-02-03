@@ -68,3 +68,8 @@ sort data.txt | uniq -u
 ls
 strings data.txt | grep "==="
 
+# Bandit Level 9
+**Comandos utilizados:**
+```bash
+ls
+cat data.txt | base64 -d
