@@ -35,5 +35,13 @@ ls
 file ./-file*
 cat ./-file07
 
+# Bandit Level 5
+**Comandos utilizados:**
+```bash
+cd inhere
+ls 
+find . -type f -size 1033c ! -executable
+cat ./maybehere07/.file2
+
 
 
