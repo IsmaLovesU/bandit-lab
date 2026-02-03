@@ -14,4 +14,10 @@ cat readme
 ls
 cat ./-
 
+# Bandit Level 2
+**Comandos utilizados:**
+```bash
+ls
+cat -- "--spaces in this filename--"
+
 
