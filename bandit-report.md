@@ -20,4 +20,13 @@ cat ./-
 ls
 cat -- "--spaces in this filename--"
 
+# Bandit Level 3
+**Comandos utilizados:**
+```bash
+cd inhere
+ls -a
+cat ...Hiding-From-You
+
+
+
 
