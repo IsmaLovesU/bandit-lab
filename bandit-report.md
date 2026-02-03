@@ -43,5 +43,13 @@ ls
 find . -type f -size 1033c ! -executable
 cat ./maybehere07/.file2
 
+# Bandit Level 6
+**Comandos utilizados:**
+```bash
+find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
 
-
+# Bandit Level 7
+**Comandos utilizados:**
+```bash
+grep millionth data.txt
